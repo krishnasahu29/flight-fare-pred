@@ -1,2 +1,0 @@
-'flight.pkl filter=lfs diff=lfs merge=lfs -text
-flight_rf.pkl filter=lfs diff=lfs merge=lfs -text
